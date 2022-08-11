@@ -1,0 +1,1 @@
+# FindTheSecondMin-maxNumberFromAnArray
